@@ -1,0 +1,20 @@
+{
+  "name": "ionic-social-share-web",
+  "version": "0.0.1",
+  "main": ["ionic-social-share-web.js"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "tasks",
+    "component.json",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "ender.js",
+    "Gruntfile.js",
+    "package.js",
+    "package.json"
+  ]
+}
